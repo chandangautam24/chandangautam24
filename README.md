@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin/in/chandan-gautam" target="_blank">
+  <a href="https://www.linkedin.com/in/chandan-gautam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/1384970393374298165" target="_blank">
